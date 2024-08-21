@@ -41,10 +41,13 @@ My research focuses on security and privacy issues in machine learning. I'm part
 **Jérémie Dentan**, Arnaud Paran, Aymen Shabou
 - Presents the first reconstruction attacks against document understanding models
 - Strong empirical results, with up to 4.1% of perfect reconstructions
+- Focus on the impact of multimodality on the performance of the attack
 </div>
 </div>
 
-- `Data Challenge` [Using Error Level Analysis to remove Underspecification](https://www.researchgate.net/profile/Jeremie-Dentan/publication/369315523_Using_Error_Level_Analysis_to_remove_Underspecification/links/641465e0315dfb4cce89bda9/Using-Error-Level-Analysis-to-remove-Underspecification.pdf)
+- [Using Error Level Analysis to remove Underspecification](https://www.researchgate.net/publication/369315523_Using_Error_Level_Analysis_to_remove_Underspecification) Jérémie Dentan. 2023.
+- [Towards a reliable detection of forgeries based on demosaicing](https://www.researchgate.net/publication/369481216_Towards_a_reliable_detection_of_forgeries_based_on_demosaicing) Jérémie Dentan. 2023.
+- [Cellular Component Ontology Prediction](https://www.researchgate.net/publication/368293111_Cellular_Component_Ontology_Prediction) Jérémie Dentan, Abdellah El Mrini, Meryem Jaaidan. 2023.
 
 # 📖 Educations
 - *2022-2023*, Master of Science in Mathematics, Vision, leArning (MVA). ENS Paris-Saclay, Gif-sur-Yvette, France.

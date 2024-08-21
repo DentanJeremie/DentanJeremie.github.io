@@ -14,6 +14,8 @@ os.makedirs('results', exist_ok=True)
 with open(f'results/gs_data.json', 'w') as outfile:
     json.dump(author, outfile, ensure_ascii=False)
 
+if "citedby" not in author:
+    author["citedby"] = 0
 shieldio_data = {
   "schemaVersion": 1,
   "label": "citations",
