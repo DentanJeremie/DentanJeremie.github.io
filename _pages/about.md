@@ -21,7 +21,7 @@ Hi, I'm Jérémie 👋
 
 I'm a first year PhD candidate at École Polytechnique Paris, supervised by Prof. Sonia Vanier and Prof. Davide Buscaldi. I also collaborate with Crédit Agricole as part of the "Responsible and Trustworthy AI" partnership with École Polytechnique.
 
-I grew up in the south of France, near Aix-en-Provence. I followed the French engineering curriculum, with two years of "classe préparatoire" in Versailles, before attending École Polytechnique, where I graduated in 2022. I also graduated from ENS Paris-Saclay MVA Master in 2023, specializing in "Mathematics, Vision, leArning". I started my PhD at École Polytechnique Paris at the end of 2023.
+I grew up in the south of France, near Aix-en-Provence. I followed the French engineering curriculum, with two years of "classe préparatoire" in Versailles, before attending École Polytechnique, where I graduated in 2022. I also graduated from ENS Paris-Saclay "MVA" Master in 2023, specializing in "Mathematics, Vision, leArning". I started my PhD at École Polytechnique Paris at the end of 2023.
 
 My research focuses on security and privacy issues in machine learning. I'm particularly interested in the robustness of Large Language Models against privacy attacks. I have developed some new adversarial attacks to reconstruct training data from multimodal models. I am now focusing on the mechanism of training data memorization itself, to better understand what makes a model robust to such privacy attacks.
 
