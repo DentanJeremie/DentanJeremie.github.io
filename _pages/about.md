@@ -44,6 +44,8 @@ My research focuses on security and privacy issues in machine learning. I'm part
 </div>
 </div>
 
+- `Data Challenge` [Using Error Level Analysis to remove Underspecification](https://www.researchgate.net/profile/Jeremie-Dentan/publication/369315523_Using_Error_Level_Analysis_to_remove_Underspecification/links/641465e0315dfb4cce89bda9/Using-Error-Level-Analysis-to-remove-Underspecification.pdf)
+
 # 📖 Educations
 - *2022-2023*, Master of Science in Mathematics, Vision, leArning (MVA). ENS Paris-Saclay, Gif-sur-Yvette, France.
 - *2019-2022*, Master of Engineering in Applied Mathematics and Computer Science. École Polytechnique, Palaiseau, France. 
