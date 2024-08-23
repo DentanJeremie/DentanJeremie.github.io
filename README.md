@@ -14,9 +14,7 @@ AcadHomepage
 <p align="center">A Modern and Responsive Academic Personal Homepage</p>
 
 <p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
+    <br><img src="docs/screenshot.png" width="100%"/><br>
 </p>
 
 Some examples:
