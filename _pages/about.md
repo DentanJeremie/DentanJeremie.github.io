@@ -40,11 +40,12 @@ I grew up in the south of France, near Aix-en-Provence. I followed the French en
 
 [Predicting and analyzing memorization within fine-tuned Large Language Models](https://arxiv.org/abs/2409.18858)
 
+*Arxiv Preprint - September 2024*
+
 **Jérémie Dentan**, Davide Buscaldi, Aymen Shabou, Sonia Vanier
 - An auditing tool for practitioners to evaluate their models and predict vulnerable samples before they are memorized
-- Supported by new theoretical results
-- Easy to compute with a low computational budget
-- Strong empirical results
+- Theoretical justification and strong empirical results
+- Easy to use with a low computational budget
 - [Code available!](https://github.com/orailix/predict_llm_memorization)
 </div>
 </div>
@@ -53,6 +54,8 @@ I grew up in the south of France, near Aix-en-Provence. I followed the French en
 <div class='paper-box-text' markdown="1">
 
 [Reconstructing Training Data From Document Understanding Models](https://www.usenix.org/conference/usenixsecurity24/presentation/dentan)
+
+*Usenix Security Symposium - August 2024*
 
 **Jérémie Dentan**, Arnaud Paran, Aymen Shabou
 - Presents the first reconstruction attacks against document understanding models
@@ -75,7 +78,6 @@ I grew up in the south of France, near Aix-en-Provence. I followed the French en
 - *2022.04 - 2022.09*, Research Assistant. Oracle Labs, Zurich, Switzerland.
 - *2021.06 - 2021.08*, Business Analyst. BearingPoint, Paris, France.
 
-<br>
 <br>
 <br>
 <br>
