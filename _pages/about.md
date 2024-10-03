@@ -74,3 +74,10 @@ I grew up in the south of France, near Aix-en-Provence. I followed the French en
 - *2023.04 - 2023.09*, Research Assistant. Crédit Agricole DataLab Groupe, Montrouge, France.
 - *2022.04 - 2022.09*, Research Assistant. Oracle Labs, Zurich, Switzerland.
 - *2021.06 - 2021.08*, Business Analyst. BearingPoint, Paris, France.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
