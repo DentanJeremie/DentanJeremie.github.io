@@ -19,14 +19,15 @@ redirect_from:
 
 Hi, I'm Jérémie 👋
 
-I'm a first year PhD candidate at École Polytechnique Paris, supervised by [Prof. Sonia Vanier](https://www.linkedin.com/in/sonia-vanier-31657061/) and [Prof. Davide Buscaldi](https://sites.google.com/site/davidebuscaldi/). I also collaborate with Crédit Agricole as part of the "Responsible and Trustworthy AI" partnership with École Polytechnique.
+I'm a PhD candidate in ML security and privacy at École Polytechnique Paris, supervised by [Prof. Sonia Vanier](https://www.linkedin.com/in/sonia-vanier-31657061/) and [Prof. Davide Buscaldi](https://sites.google.com/site/davidebuscaldi/). I also collaborate with Crédit Agricole as part of the "Responsible and Trustworthy AI" partnership with École Polytechnique.
 
-I grew up in the south of France, near Aix-en-Provence. I followed the French engineering curriculum, with two years of "classe préparatoire" at [Sainte Geneviève](https://www.bginette.com) in Versailles, before attending [École Polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program), where I graduated in 2022. I also graduated from [ENS Paris-Saclay "MVA" Master](https://www.master-mva.com) in 2023, specializing in "Mathematics, Vision, leArning". I started my PhD at École Polytechnique Paris at the end of 2023.
+My research focuses on security and privacy issues in machine learning. I'm particularly interested in the robustness of Large Language Models against privacy attacks. I have developed some new adversarial attacks to reconstruct training data from multimodal models. I am now working on auditing tools to better understand and predict memorization, for practitioners to develop robust models.
 
-My research focuses on security and privacy issues in machine learning. I'm particularly interested in the robustness of Large Language Models against privacy attacks. I have developed some new adversarial attacks to reconstruct training data from multimodal models. I am now focusing on the mechanism of training data memorization itself, to better understand what makes a model robust to such privacy attacks.
+I grew up in the south of France, near Aix-en-Provence. I followed the French engineering curriculum, with two years of "classe préparatoire" at [Sainte Geneviève](https://www.bginette.com) in Versailles, before attending the engineering curriculum at [École Polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program), where I graduated in 2022. I also graduated from [ENS Paris-Saclay "MVA" Master](https://www.master-mva.com) in 2023, specializing in "Mathematics, Vision, leArning". I started my PhD at École Polytechnique Paris in 2023.
 
 # 🔥 News
-- *2024.09*: &nbsp;👨‍🏫 I will start teaching labs at ["Machine Learning and Deep Learning"](https://synapses.polytechnique.fr/catalogue/2022-2023/ue/565/INF554-machine-and-deep-learning) Master's course at École Polytechnique
+- *2024.09*: &nbsp;🗣️ I attended Google Responsible AI Summit in Paris to present some of my work, including [our last preprint](https://arxiv.org/abs/2409.18858)
+- *2024.09*: &nbsp;👨‍🏫 I start teaching labs at ["Machine Learning and Deep Learning"](https://synapses.polytechnique.fr/catalogue/2022-2023/ue/565/INF554-machine-and-deep-learning) Master's course at École Polytechnique
 - *2024.08*: &nbsp;🗣️ I was at Usenix Security Symposium in Philadelphie to present our paper [Reconstructing Training Data From Document Understanding Models](https://www.usenix.org/conference/usenixsecurity24/presentation/dentan)
 - *2024.06*: &nbsp;🥳 Our paper was accepted to Usenix Security 24! See our [preprint here!](https://arxiv.org/abs/2406.03182)
 - *2024.03*: &nbsp;🍾 The "Responsible and Trustworthy AI" between Crédit Agricole and École Polytechnique is signed! Check out [this article here.](https://www.polytechnique.edu/en/news/inauguration-chair-trustworthy-and-responsible-artificial-intelligence)
@@ -34,7 +35,21 @@ My research focuses on security and privacy issues in machine learning. I'm part
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 24</div><img src='images/teaser_zoom.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/predict_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Predicting and analyzing memorization within fine-tuned Large Language Models](https://arxiv.org/abs/2409.18858)
+
+**Jérémie Dentan**, Davide Buscaldi, Aymen Shabou, Sonia Vanier
+- An auditing tool for practitioners to evaluate their models and predict vulnerable samples before they are memorized
+- Supported by new theoretical results
+- Easy to compute with a low computational budget
+- Strong empirical results
+- [Code available!](https://github.com/orailix/predict_llm_memorization)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 24</div><img src='images/cdmi_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reconstructing Training Data From Document Understanding Models](https://www.usenix.org/conference/usenixsecurity24/presentation/dentan)
