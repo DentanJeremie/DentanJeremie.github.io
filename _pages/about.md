@@ -31,7 +31,12 @@ I grew up in the south of France, near Aix-en-Provence. I followed the French en
 - *2024.08*: &nbsp;🗣️ I was at Usenix Security Symposium in Philadelphie to present our paper [Reconstructing Training Data From Document Understanding Models](https://www.usenix.org/conference/usenixsecurity24/presentation/dentan)
 - *2024.06*: &nbsp;🥳 Our paper was accepted to Usenix Security 24! See our [preprint here!](https://arxiv.org/abs/2406.03182)
 - *2024.03*: &nbsp;🍾 The "Responsible and Trustworthy AI" between Crédit Agricole and École Polytechnique is signed! Check out [this article here.](https://www.polytechnique.edu/en/news/inauguration-chair-trustworthy-and-responsible-artificial-intelligence)
-- *2023.11*: &nbsp;🚀 I'm starting my PhD at École Polytechnique!
+
+# 🗣️ Invited talks
+
+- *2024.10.02*: Google Responsible AI Summit, Paris. *Towards security and privacy in document understanding models*. Sonia Vanier and Jérémie Dentan. <a href="assets/files/2024_10_02__Vanier_Denta_Google-1.pdf">[Slides]</a> <a href="https://www.linkedin.com/posts/jeremiedentan_last-week-i-attended-google-responsible-ai-activity-7249833934304292864-l0R6">[LinkedIn Post]</a> 
+- *2024.10.02*: Google Responsible AI Summit, Paris. *Trust and Security in AI*. Sonia Vanier and Jérémie Dentan. <a href="assets/files/2024_10_02__Vanier_Denta_Google-2.pdf">[Slides]</a> <a href="https://www.linkedin.com/posts/jeremiedentan_last-week-i-attended-google-responsible-ai-activity-7249833934304292864-l0R6">[LinkedIn Post]</a> 
+
 
 # 📝 Publications 
 
