@@ -51,7 +51,7 @@ I grew up in the south of France, near Aix-en-Provence. I followed the French en
 - An auditing tool for practitioners to evaluate their models and predict vulnerable samples before they are memorized
 - Theoretical justification and strong empirical results
 - Easy to use with a low computational budget
-- [Code available!](https://github.com/orailix/predict_llm_memorization)
+- <a href="https://github.com/orailix/predict_llm_memorization">[Code]</a> <a href="assets/files/2024_10_09__Dentan_pitch_predict_memorization.pdf">[Pitch Slides]</a>
 </div>
 </div>
 
