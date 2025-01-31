@@ -34,6 +34,7 @@ I grew up in the south of France, near Aix-en-Provence. I followed the French en
 
 # 🔈 Invited talks
 
+- *2025.01.28*: FIIA 2025, Paris. *Measuring and understanding ivacy risks in Language Models*. Sonia Vanier and Jérémie Dentan. <a href="assets/files/2025_01_28__Vanier_Denta_FIIA.pdf">[Slides]</a> <a href="https://www.linkedin.com/posts/jeremiedentan_i-attended-the-9th-industrial-forum-of-the-activity-7291128297063686144-Ix54">[LinkedIn Post]</a> 
 - *2024.10.02*: Google Responsible AI Summit, Paris. *Towards security and privacy in document understanding models*. Sonia Vanier and Jérémie Dentan. <a href="assets/files/2024_10_02__Vanier_Denta_Google-1.pdf">[Slides]</a> <a href="https://www.linkedin.com/posts/jeremiedentan_last-week-i-attended-google-responsible-ai-activity-7249833934304292864-l0R6">[LinkedIn Post]</a> 
 - *2024.10.02*: Google Responsible AI Summit, Paris. *Trust and Security in AI*. Sonia Vanier and Jérémie Dentan. <a href="assets/files/2024_10_02__Vanier_Denta_Google-2.pdf">[Slides]</a> <a href="https://www.linkedin.com/posts/jeremiedentan_last-week-i-attended-google-responsible-ai-activity-7249833934304292864-l0R6">[LinkedIn Post]</a> 
 
