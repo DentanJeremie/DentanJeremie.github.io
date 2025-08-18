@@ -31,13 +31,11 @@ I grew up near Aix-en-Provence, France, and followed the French engineering curr
 - *2024.08*: &nbsp;🗣️ I was at Usenix Security Symposium in Philadelphie to present our paper [Reconstructing Training Data From Document Understanding Models](https://www.usenix.org/conference/usenixsecurity24/presentation/dentan)
 - *2024.03*: &nbsp;🍾 The "Responsible and Trustworthy AI" between Crédit Agricole and École Polytechnique is signed! Check out [this article here.](https://www.polytechnique.edu/en/news/inauguration-chair-trustworthy-and-responsible-artificial-intelligence)
 
-
 # 🔈 Invited talks
 
 - *2025.01.28*: FIIA 2025, Paris. *Measuring and understanding ivacy risks in Language Models*. Sonia Vanier and Jérémie Dentan. <a href="assets/files/2025_01_28__Vanier_Denta_FIIA.pdf">[Slides]</a> <a href="https://www.linkedin.com/posts/jeremiedentan_i-attended-the-9th-industrial-forum-of-the-activity-7291128297063686144-Ix54">[LinkedIn Post]</a> 
 - *2024.10.02*: Google Responsible AI Summit, Paris. *Towards security and privacy in document understanding models*. Sonia Vanier and Jérémie Dentan. <a href="assets/files/2024_10_02__Vanier_Denta_Google-1.pdf">[Slides]</a> <a href="https://www.linkedin.com/posts/jeremiedentan_last-week-i-attended-google-responsible-ai-activity-7249833934304292864-l0R6">[LinkedIn Post]</a> 
 - *2024.10.02*: Google Responsible AI Summit, Paris. *Trust and Security in AI*. Sonia Vanier and Jérémie Dentan. <a href="assets/files/2024_10_02__Vanier_Denta_Google-2.pdf">[Slides]</a> <a href="https://www.linkedin.com/posts/jeremiedentan_last-week-i-attended-google-responsible-ai-activity-7249833934304292864-l0R6">[LinkedIn Post]</a> 
-
 
 # 📝 Publications 
 
@@ -55,7 +53,6 @@ I grew up near Aix-en-Provence, France, and followed the French engineering curr
   </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/classif_sae_teaser.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 [Unveiling Decision-Making in LLMs for Text Classification : Extraction of influential and interpretable concepts with Sparse Autoencoders](https://arxiv.org/abs/2506.23951)
@@ -69,7 +66,6 @@ Mathis Le Bail, **Jérémie Dentan**, Davide Buscaldi, Sonia Vanier
 - <a href="https://github.com/orailix/ClassifSAE">[Code]</a> 
   </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2025</div><img src='images/predict_teaser.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -85,7 +81,6 @@ Mathis Le Bail, **Jérémie Dentan**, Davide Buscaldi, Sonia Vanier
   </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 24</div><img src='images/cdmi_teaser.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 [Reconstructing Training Data From Document Understanding Models](https://www.usenix.org/conference/usenixsecurity24/presentation/dentan)
@@ -100,17 +95,14 @@ Mathis Le Bail, **Jérémie Dentan**, Davide Buscaldi, Sonia Vanier
   </div>
 </div>
 
-
 - [Using Error Level Analysis to remove Underspecification](https://www.researchgate.net/publication/369315523_Using_Error_Level_Analysis_to_remove_Underspecification) Jérémie Dentan. 2023.
 - [Towards a reliable detection of forgeries based on demosaicing](https://www.researchgate.net/publication/369481216_Towards_a_reliable_detection_of_forgeries_based_on_demosaicing) Jérémie Dentan. 2023.
 - [Cellular Component Ontology Prediction](https://www.researchgate.net/publication/368293111_Cellular_Component_Ontology_Prediction) Jérémie Dentan, Abdellah El Mrini, Meryem Jaaidan. 2023.
-
 
 # 📖 Educations
 - *2022-2023*, Master of Science in Mathematics, Vision, Learning (MVA). ENS Paris-Saclay, Gif-sur-Yvette, France.
 - *2019-2022*, Master of Engineering in Applied Mathematics and Computer Science. École Polytechnique, Palaiseau, France. 
 - *2017-2019*, Classe préparatoire MPSI/MP*. Lycée Privé Ste Geneviève, Versailles, France. 
-
 
 # 💻 Internships
 - *2023.04 - 2023.09*, Research Assistant. Crédit Agricole DataLab Groupe, Montrouge, France.
