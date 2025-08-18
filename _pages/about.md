@@ -25,6 +25,8 @@ My research focuses on security and privacy in machine learning, with a particul
 
 I grew up near Aix-en-Provence, France, and followed the French engineering curriculum, including two years of "classe préparatoire" at [Sainte Geneviève](https://www.bginette.com) in Versailles. I then joined the engineering program at [École Polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program), graduating in 2022. I also graduated from [ENS Paris-Saclay "MVA" Master](https://www.master-mva.com) in 2023, specializing in Mathematics, Vision, and Learning. I started my PhD at École Polytechnique Paris in 2023.
 
+📄 [Download my CV (PDF)](assets/JDentan_resume.pdf)
+
 # 🔥 News
 - *2025.07*: &nbsp;🥳 Our paper was accepted to ECAI 2025! See our [preprint here!](https://arxiv.org/abs/2409.18858)
 - *2025.04*: &nbsp;👨‍🏫 I was at [SaTML 2026 conference] in Copengagen. Very interesting papers and presentations!
