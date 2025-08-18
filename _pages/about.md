@@ -21,16 +21,16 @@ Hi, I'm Jérémie 👋
 
 I'm a PhD candidate in ML security and privacy at École Polytechnique Paris, supervised by [Prof. Sonia Vanier](https://www.linkedin.com/in/sonia-vanier-31657061/) and [Prof. Davide Buscaldi](https://sites.google.com/site/davidebuscaldi/). I also collaborate with Crédit Agricole as part of the "Responsible and Trustworthy AI" partnership with École Polytechnique.
 
-My research focuses on security and privacy issues in machine learning. I'm particularly interested in the robustness of Large Language Models against privacy attacks. I have developed some new adversarial attacks to reconstruct training data from multimodal models. I am now working on auditing tools to better understand and predict memorization, for practitioners to develop robust models.
+My research focuses on security and privacy in machine learning, with a particular interest in the robustness of Large Language Models against privacy attacks. I have developed [new adversarial attacks](https://www.usenix.org/conference/usenixsecurity24/presentation/dentan) to reconstruct training data from multimodal models, designed [an auditing method](https://arxiv.org/abs/2409.18858) to predict LLM memorization in classification settings, and proposed [a new taxonomy of memorization](https://arxiv.org/abs/2508.02573) that aligns with attention mechanisms and enables fine-grained localization. I am currently working on new techniques for uncertainty quantification in LLM outputs.  
 
-I grew up in the south of France, near Aix-en-Provence. I followed the French engineering curriculum, with two years of "classe préparatoire" at [Sainte Geneviève](https://www.bginette.com) in Versailles, before attending the engineering curriculum at [École Polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program), where I graduated in 2022. I also graduated from [ENS Paris-Saclay "MVA" Master](https://www.master-mva.com) in 2023, specializing in "Mathematics, Vision, leArning". I started my PhD at École Polytechnique Paris in 2023.
+I grew up near Aix-en-Provence, France, and followed the French engineering curriculum, including two years of "classe préparatoire" at [Sainte Geneviève](https://www.bginette.com) in Versailles. I then joined the engineering program at [École Polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program), graduating in 2022. I also graduated from [ENS Paris-Saclay "MVA" Master](https://www.master-mva.com) in 2023, specializing in Mathematics, Vision, and Learning. I started my PhD at École Polytechnique Paris in 2023.
 
 # 🔥 News
-- *2024.09*: &nbsp;🗣️ I attended Google Responsible AI Summit in Paris to present some of my work, including [our last preprint](https://arxiv.org/abs/2409.18858)
-- *2024.09*: &nbsp;👨‍🏫 I start teaching labs at ["Machine Learning and Deep Learning"](https://synapses.polytechnique.fr/catalogue/2022-2023/ue/565/INF554-machine-and-deep-learning) Master's course at École Polytechnique
+- *2025.07*: &nbsp;🥳 Our paper was accepted to ECAI 2025! See our [preprint here!](https://arxiv.org/abs/2409.18858)
+- *2025.04*: &nbsp;👨‍🏫 I was at [SaTML 2026 conference] in Copengagen. Very interesting papers and presentations!
 - *2024.08*: &nbsp;🗣️ I was at Usenix Security Symposium in Philadelphie to present our paper [Reconstructing Training Data From Document Understanding Models](https://www.usenix.org/conference/usenixsecurity24/presentation/dentan)
-- *2024.06*: &nbsp;🥳 Our paper was accepted to Usenix Security 24! See our [preprint here!](https://arxiv.org/abs/2406.03182)
 - *2024.03*: &nbsp;🍾 The "Responsible and Trustworthy AI" between Crédit Agricole and École Polytechnique is signed! Check out [this article here.](https://www.polytechnique.edu/en/news/inauguration-chair-trustworthy-and-responsible-artificial-intelligence)
+
 
 # 🔈 Invited talks
 
@@ -41,24 +41,53 @@ I grew up in the south of France, near Aix-en-Provence. I followed the French en
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/predict_teaser.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/guess_recall_teaser.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+[Guess or Recall? Training CNNs to Classify and Localize Memorization in LLMs](https://arxiv.org/abs/2508.02573)
 
-[Predicting and analyzing memorization within fine-tuned Large Language Models](https://arxiv.org/abs/2409.18858)
+*ArXiv Preprint - August 2025*
 
-*Arxiv Preprint - September 2024*
+**Jérémie Dentan**, Davide Buscaldi, Sonia Vanier
+- Analyzing attention weights with CNNs to identify patterns in verbatim-memorized samples  
+- Introducing a data-driven taxonomy of memorized samples  
+- Localizing the attention regions involved in each form of memorization  
+- <a href="https://github.com/orailix/cnn-4-llm-memo">[Code]</a> 
+  </div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/classif_sae_teaser.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+[Unveiling Decision-Making in LLMs for Text Classification : Extraction of influential and interpretable concepts with Sparse Autoencoders](https://arxiv.org/abs/2506.23951)
+
+*ArXiv Preprint - June 2025*
+
+Mathis Le Bail, **Jérémie Dentan**, Davide Buscaldi, Sonia Vanier
+- A new SAE-based method to extract interpretable concepts from LLMs  
+- Applicable to any LLM-based classification scenario  
+- Demonstrates strong empirical results  
+- <a href="https://github.com/orailix/ClassifSAE">[Code]</a> 
+  </div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2025</div><img src='images/predict_teaser.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+[Predicting memorization within Large Language Models fine-tuned for classification](https://arxiv.org/abs/2409.18858)
+
+*European Conference on Artificial Intelligence - October 2025*
 
 **Jérémie Dentan**, Davide Buscaldi, Aymen Shabou, Sonia Vanier
 - An auditing tool for practitioners to evaluate their models and predict vulnerable samples before they are memorized
 - Theoretical justification and strong empirical results
 - Easy to use with a low computational budget
-- <a href="https://github.com/orailix/predict_llm_memorization">[Code]</a> <a href="assets/files/2024_10_09__Dentan_pitch_predict_memorization.pdf">[Pitch Slides]</a>
+- <a href="https://github.com/orailix/predict_llm_memorization">[Code]</a> 
+  </div>
 </div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 24</div><img src='images/cdmi_teaser.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+  <div class='paper-box-text' markdown="1">
 [Reconstructing Training Data From Document Understanding Models](https://www.usenix.org/conference/usenixsecurity24/presentation/dentan)
 
 *Usenix Security Symposium - August 2024*
@@ -67,17 +96,21 @@ I grew up in the south of France, near Aix-en-Provence. I followed the French en
 - Presents the first reconstruction attacks against document understanding models
 - Strong empirical results, with up to 4.1% of perfect reconstructions
 - Focus on the impact of multimodality on the performance of the attack
+- <a href="https://www.usenix.org/system/files/usenixsecurity24_slides-dentan.pdf">[Slides]</a>  <a href="https://youtu.be/Ob9J2qmhvfU">[Presentation Video]</a> 
+  </div>
 </div>
-</div>
+
 
 - [Using Error Level Analysis to remove Underspecification](https://www.researchgate.net/publication/369315523_Using_Error_Level_Analysis_to_remove_Underspecification) Jérémie Dentan. 2023.
 - [Towards a reliable detection of forgeries based on demosaicing](https://www.researchgate.net/publication/369481216_Towards_a_reliable_detection_of_forgeries_based_on_demosaicing) Jérémie Dentan. 2023.
 - [Cellular Component Ontology Prediction](https://www.researchgate.net/publication/368293111_Cellular_Component_Ontology_Prediction) Jérémie Dentan, Abdellah El Mrini, Meryem Jaaidan. 2023.
 
+
 # 📖 Educations
-- *2022-2023*, Master of Science in Mathematics, Vision, leArning (MVA). ENS Paris-Saclay, Gif-sur-Yvette, France.
+- *2022-2023*, Master of Science in Mathematics, Vision, Learning (MVA). ENS Paris-Saclay, Gif-sur-Yvette, France.
 - *2019-2022*, Master of Engineering in Applied Mathematics and Computer Science. École Polytechnique, Palaiseau, France. 
 - *2017-2019*, Classe préparatoire MPSI/MP*. Lycée Privé Ste Geneviève, Versailles, France. 
+
 
 # 💻 Internships
 - *2023.04 - 2023.09*, Research Assistant. Crédit Agricole DataLab Groupe, Montrouge, France.
