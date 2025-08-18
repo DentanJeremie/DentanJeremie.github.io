@@ -40,7 +40,8 @@ I grew up near Aix-en-Provence, France, and followed the French engineering curr
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/guess_recall_teaser.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1">
+
 [Guess or Recall? Training CNNs to Classify and Localize Memorization in LLMs](https://arxiv.org/abs/2508.02573)
 
 *ArXiv Preprint - August 2025*
@@ -50,11 +51,12 @@ I grew up near Aix-en-Provence, France, and followed the French engineering curr
 - Introducing a data-driven taxonomy of memorized samples  
 - Localizing the attention regions involved in each form of memorization  
 - <a href="https://github.com/orailix/cnn-4-llm-memo">[Code]</a> 
-  </div>
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/classif_sae_teaser.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1">
+
 [Unveiling Decision-Making in LLMs for Text Classification : Extraction of influential and interpretable concepts with Sparse Autoencoders](https://arxiv.org/abs/2506.23951)
 
 *ArXiv Preprint - June 2025*
@@ -64,11 +66,12 @@ Mathis Le Bail, **Jérémie Dentan**, Davide Buscaldi, Sonia Vanier
 - Applicable to any LLM-based classification scenario  
 - Demonstrates strong empirical results  
 - <a href="https://github.com/orailix/ClassifSAE">[Code]</a> 
-  </div>
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2025</div><img src='images/predict_teaser.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1">
+
 [Predicting memorization within Large Language Models fine-tuned for classification](https://arxiv.org/abs/2409.18858)
 
 *European Conference on Artificial Intelligence - October 2025*
@@ -78,11 +81,12 @@ Mathis Le Bail, **Jérémie Dentan**, Davide Buscaldi, Sonia Vanier
 - Theoretical justification and strong empirical results
 - Easy to use with a low computational budget
 - <a href="https://github.com/orailix/predict_llm_memorization">[Code]</a> 
-  </div>
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Usenix Security 24</div><img src='images/cdmi_teaser.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1">
+
 [Reconstructing Training Data From Document Understanding Models](https://www.usenix.org/conference/usenixsecurity24/presentation/dentan)
 
 *Usenix Security Symposium - August 2024*
@@ -92,7 +96,7 @@ Mathis Le Bail, **Jérémie Dentan**, Davide Buscaldi, Sonia Vanier
 - Strong empirical results, with up to 4.1% of perfect reconstructions
 - Focus on the impact of multimodality on the performance of the attack
 - <a href="https://www.usenix.org/system/files/usenixsecurity24_slides-dentan.pdf">[Slides]</a>  <a href="https://youtu.be/Ob9J2qmhvfU">[Presentation Video]</a> 
-  </div>
+</div>
 </div>
 
 - [Using Error Level Analysis to remove Underspecification](https://www.researchgate.net/publication/369315523_Using_Error_Level_Analysis_to_remove_Underspecification) Jérémie Dentan. 2023.
