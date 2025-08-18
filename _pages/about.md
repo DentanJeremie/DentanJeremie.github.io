@@ -112,6 +112,7 @@ Mathis Le Bail, **Jérémie Dentan**, Davide Buscaldi, Sonia Vanier
 - *2023.04 - 2023.09*, Research Assistant. Crédit Agricole DataLab Groupe, Montrouge, France.
 - *2022.04 - 2022.09*, Research Assistant. Oracle Labs, Zurich, Switzerland.
 - *2021.06 - 2021.08*, Business Analyst. BearingPoint, Paris, France.
+- *2019.09 - 2020.03*, Deputy Project Manager for Civil Security. French Embassy, Antananarivo, Madagascar.
 
 <br>
 <br>
