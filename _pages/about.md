@@ -28,11 +28,12 @@ I grew up near Aix-en-Provence, France, and followed the French engineering curr
 📄 [Download my CV (PDF)](assets/files/JDentan_resume.pdf)
 
 # 🔥 News
-- *2025.11*: &nbsp;🥳 Our paper was accepted for an oral presentation at AAAI-26! See our [preprint here!](https://arxiv.org/abs/2508.02573)
-- *2025.07*: &nbsp;🥳 Our paper was accepted to ECAI 2025! See our [preprint here!](https://arxiv.org/abs/2409.18858)
-- *2025.04*: &nbsp;👨‍🏫 I was at [SaTML 2026 conference](https://satml.org/2025/) in Copengagen. Very interesting papers and presentations!
-- *2024.08*: &nbsp;🗣️ I was at Usenix Security Symposium in Philadelphie to present our paper [Reconstructing Training Data From Document Understanding Models](https://www.usenix.org/conference/usenixsecurity24/presentation/dentan)
-- *2024.03*: &nbsp;🍾 The "Responsible and Trustworthy AI" between Crédit Agricole and École Polytechnique is signed! Check out [this article here.](https://www.polytechnique.edu/en/news/inauguration-chair-trustworthy-and-responsible-artificial-intelligence)
+- *2026.03*: &nbsp; I'm starting an internship as AI Scientist at Mistral AI!
+- *2025.11*: &nbsp; Our paper was accepted for an oral presentation at AAAI-26! See our [preprint here!](https://arxiv.org/abs/2508.02573)
+- *2025.07*: &nbsp; Our paper was accepted to ECAI 2025! See our [preprint here!](https://arxiv.org/abs/2409.18858)
+- *2025.04*: &nbsp; I was at [SaTML 2026 conference](https://satml.org/2025/) in Copengagen. Very interesting papers and presentations!
+- *2024.08*: &nbsp; I was at Usenix Security Symposium in Philadelphie to present our paper [Reconstructing Training Data From Document Understanding Models](https://www.usenix.org/conference/usenixsecurity24/presentation/dentan)
+
 
 # 🔈 Invited talks
 
@@ -44,12 +45,42 @@ I grew up near Aix-en-Provence, France, and followed the French engineering curr
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/much_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ktc_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Kernel Token Contradiction: a Fast and Principled Approach for LLM Claim Uncertainty Quantification](https://arxiv.org/abs/2608.22506)
+
+*LREC - May 2026*
+
+**Jérémie Dentan**, Alexi Canesse, Mahamel El Sharkawi, Sonia Vanier
+- A new white-box approach for claim-level UQ
+- A CPU method that is 8.2x faster than top-performing GPU methods
+- State-of-the-art trade-off between efficiency and performance
+- State-of-the-art performance in the high precision regime
+- <a href="https://github.com/orailix/kernel_token_contradiction">[GitHub]</a> 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESORICS-26</div><img src='images/activation_surgery_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Activation Surgery: Jailbreaking White-box LLMs without Touching the Prompt](https://arxiv.org/abs/2603.14278)
+
+*ESORICS - September 2026*
+
+Maël Jenny, **Jérémie Dentan**, Sonia Vanier, Michaël Krajecki
+- A new white-box attack against LLMs
+- Tampers with the activations to jailbreak the output of the model
+- Obtain actionable query for harmful prompts
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LREC-26</div><img src='images/much_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MUCH: A Multilingual Claim Hallucination Benchmark](https://arxiv.org/abs/2511.17081)
 
-*ArXiv Preprint - November 2025*
+*LREC - May 2026*
 
 **Jérémie Dentan**, Alexi Canesse, Davide Buscaldi, Aymen Shabou, Sonia Vanier
 - A new claim-level benchmark for uncertainty quantification for LLM
@@ -76,12 +107,12 @@ I grew up near Aix-en-Provence, France, and followed the French engineering curr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/classif_sae_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL-26</div><img src='images/classif_sae_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unveiling Decision-Making in LLMs for Text Classification : Extraction of influential and interpretable concepts with Sparse Autoencoders](https://arxiv.org/abs/2506.23951)
 
-*ArXiv Preprint - June 2025*
+*Findings of the EACL - March 2026*
 
 Mathis Le Bail, **Jérémie Dentan**, Davide Buscaldi, Sonia Vanier
 - A new SAE-based method to extract interpretable concepts from LLMs  
@@ -131,8 +162,9 @@ Mathis Le Bail, **Jérémie Dentan**, Davide Buscaldi, Sonia Vanier
 - *2017-2019*, Classe préparatoire MPSI/MP*. Lycée Privé Ste Geneviève, Versailles, France. 
 
 # 💻 Internships
-- *2023.04 - 2023.09*, Research Assistant. Crédit Agricole DataLab Groupe, Montrouge, France.
-- *2022.04 - 2022.09*, Research Assistant. Oracle Labs, Zurich, Switzerland.
+- *2023.04 - 2023.09*, AI Scientist. Mistral AI, Paris, France.
+- *2023.04 - 2023.09*, Data Scientist. Crédit Agricole DataLab Groupe, Montrouge, France.
+- *2022.04 - 2022.09*, Software Developer. Oracle Labs, Zurich, Switzerland.
 - *2021.06 - 2021.08*, Business Analyst. BearingPoint, Paris, France.
 - *2019.09 - 2020.03*, Deputy Project Manager for Civil Security. French Embassy, Antananarivo, Madagascar.
 
